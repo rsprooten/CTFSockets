@@ -1,0 +1,1 @@
+* * * * * /usr/bin/flock -n /tmp/runner2.lockfile /usr/bin/python3 /home/runner2/ctf2.py
